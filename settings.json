@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "stray alive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "vrsmp-Ku3i.aternos.me:57362",
+    "ip": "vrsmp-Ku3i.aternos.me",
     "port": 57362,
     "version": "",
     "try-creative": false
