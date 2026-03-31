@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vrsmp-Ku3i.aternos.me:57362",
+    "ip": "vrsmp-Ku3i.aternos.me",
     "port": 57362,
     "version": "1.21.11",
     "try-creative": false
